@@ -45,7 +45,7 @@
 
 </details>
 
-## What is it?
+## ~~What is it?~~
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
@@ -184,7 +184,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## Why use it?
+## ~~Why use it?~~
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
@@ -195,7 +195,7 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## ~~How to use it~~
 
 <details>
 <summary>How to use it</summary>
@@ -229,14 +229,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 </details>
 
-## Don't feel you aren't smart enough
+## ~~Don't feel you aren't smart enough~~
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 - [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
 
-## About Video Resources
+## ~~About Video Resources~~
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
@@ -272,7 +272,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 </details>
 
-## Pick One Language for the Interview
+## ~~Pick One Language for the Interview~~
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
