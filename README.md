@@ -408,7 +408,7 @@ This list grew over many months, and yes, it kind of got out of hand.
 
 Here are some mistakes I made so you'll have a better experience.
 
-### 1. You Won't Remember it All
+### 1. ~~You Won't Remember it All~~
 
 I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
 through my notes and making flashcards so I could review.
@@ -417,7 +417,7 @@ Read please so you won't make my mistakes:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
-### 2. Use Flashcards
+### 2. ~~Use Flashcards~~
 
 To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
 Each card has different formatting.
@@ -441,7 +441,7 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
-### 3. Review, review, review
+### 3. ~~Review, review, review~~
 
 I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
 
