@@ -64,18 +64,18 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
+- ~~[What is it?](#what-is-it)~~
+- ~~[Why use it?](#why-use-it)~~
+- ~~[How to use it](#how-to-use-it)~~
+- ~~[Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)~~
+- ~~[About Video Resources](#about-video-resources)~~
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- ~~[Pick One Language for the Interview](#pick-one-language-for-the-interview)~~
 - [Book List](#book-list)
-- [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
+- ~~[Before you Get Started](#before-you-get-started)~~
+- ~~[What you Won't See Covered](#what-you-wont-see-covered)~~
 - [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
+- ~~[The Daily Plan](#the-daily-plan)~~
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -960,7 +960,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
         - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
 
-> ### Dynamic Programming
+- > ### Dynamic Programming
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
